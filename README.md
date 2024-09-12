@@ -19,15 +19,6 @@ El repositorio contiene los siguientes archivos y carpetas:
 - `/imagenes_satelitales/`: Contiene un archivo `Imagenes_satelitales.md` con las instrucciones para descargar las imágenes Landsat-8 desde EarthExplorer.
 - `/codigo/`: Carpeta con el código en **Python** que realiza el procesamiento de las imágenes y el cálculo de los índices NDSSI y NSMI.
     - `calculo_indices.py`: Código principal en Python para procesar las imágenes y calcular los índices.
-- `README.md`: Este archivo, que describe el contenido del repositorio y cómo reproducir los resultados.
-
-## Requisitos
-
-Para ejecutar el análisis, necesitarás tener instaladas las siguientes herramientas y librerías:
-
-- Python 3.x
-- Librerías Python: `rasterio`, `numpy`, `matplotlib`, `pandas`
-- **QGIS** o cualquier otra herramienta GIS que permita trabajar con los archivos **SHP**.
 
 ## Instrucciones para Reproducir el Análisis
 
