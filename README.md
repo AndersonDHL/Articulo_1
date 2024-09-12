@@ -9,9 +9,9 @@ Este repositorio contiene el código y los archivos necesarios para reproducir e
 
 El repositorio contiene los siguientes archivos y carpetas:
 
-- `/shapefiles/`: Carpeta con los archivos **SHP** necesarios para la delimitación del área de estudio.
-- `/imagenes_satelitales/`: Contiene un archivo `Imagenes_satelitales.md` con las instrucciones para descargar las imágenes Landsat-8 desde EarthExplorer.
-- `/codigo/`: Carpeta con el código en **Python** que realiza el procesamiento de las imágenes y el cálculo de los índices NDSSI y NSMI.
+- Carpeta con los archivos **SHP** necesarios para la delimitación del área de estudio.
+- Contiene un archivo `Imagenes_satelitales.md` con las instrucciones para descargar las imágenes Landsat-8 desde EarthExplorer.
+- Carpeta con el código en **Python** que realiza el procesamiento de las imágenes y el cálculo de los índices NDSSI y NSMI.
 
 ## Instrucciones para Reproducir el Análisis
 
