@@ -1,11 +1,5 @@
-# Articulo_1
-
 # ANÁLISIS COMPARATIVO DE LOS ÍNDICES NDSSI Y NSMI CON IMÁGENES LANDSAT-8 EN EL LAGO CHINCHAYCOCHA, JUNÍN, 2023
 ### COMPARATIVE ANALYSIS OF NDSSI AND NSMI INDICES WITH LANDSAT-8 IMAGERY IN LAKE CHINCHAYCOCHA, JUNÍN, 2023
-
-**Autor:** Anderson Damian Huaman Lara  
-ORCID: [https://orcid.org/0009-0002-0275-2364](https://orcid.org/0009-0002-0275-2364)  
-Universidad Nacional de Centro del Perú, Huancayo, Junín, Perú
 
 ## Descripción del Proyecto
 
@@ -18,7 +12,6 @@ El repositorio contiene los siguientes archivos y carpetas:
 - `/shapefiles/`: Carpeta con los archivos **SHP** necesarios para la delimitación del área de estudio.
 - `/imagenes_satelitales/`: Contiene un archivo `Imagenes_satelitales.md` con las instrucciones para descargar las imágenes Landsat-8 desde EarthExplorer.
 - `/codigo/`: Carpeta con el código en **Python** que realiza el procesamiento de las imágenes y el cálculo de los índices NDSSI y NSMI.
-    - `calculo_indices.py`: Código principal en Python para procesar las imágenes y calcular los índices.
 
 ## Instrucciones para Reproducir el Análisis
 
